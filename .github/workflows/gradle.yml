@@ -26,4 +26,4 @@ jobs:
     - name: Build with Gradle
       run: |
           ./gradlew setupDecompWorkspace
-          ./gradlew build
+          ./gradlew eclipse
